@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Trâm Trịnh 👋
+
+### :woman_technologist: About Me :
 
 <!--
 **tram-tr/tram-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
