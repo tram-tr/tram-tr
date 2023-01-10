@@ -12,6 +12,26 @@
 - 💻 Love software development, machine learning, and full-stack development
 - 🎨 Enjoy creating coding and drawing
 - ☕ Coffee and Boba!
+- 📽 Movie/Dramas binge-watcher!
+
+---
+### 📚 Courseworks:
+### Spring 2023
+- Operating System Principle
+- Computer Security
+- Silicon Valley Internship
+
+### Past Courses
+- Scientific Computing Python
+- Discrete Mathematics
+- Data Structures
+- Logic Design
+- System Programming
+- Computer Architecture
+- Theory of Computing
+- Probability and Statistics
+- Programming Paradigms
+- Programming Challenges
 
 <!--
 **tram-tr/tram-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
