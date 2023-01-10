@@ -33,6 +33,12 @@
 - Programming Paradigms
 - Programming Challenges
 
+### 😄 Other:
+- 🌱 Notre Dame Silicon Valley Semester (Spring 2023)
+- 👓 Posse Foundation Full-Tuition Leadership Scholarship (2020 – 2024)
+- 📈 Undergraduate Research Assistant
+- 📫 How to reach me: htrinh@nd.edu
+
 <!--
 **tram-tr/tram-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
