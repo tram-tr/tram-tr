@@ -1,6 +1,17 @@
 ### Hi, I'm Trâm Trịnh 👋
 
+---
 ### :woman_technologist: About Me :
+- 🏡 Vietnam / New Orleans, LA
+- 🙋🏻‍♀️ Pronouns: She/Her
+- 🇻🇳 Vietnamese
+- 🎓 ND'24 Computer Science
+
+---
+### ✨ Interests :
+- 💻 Love software development, machine learning, and full-stack development
+- 🎨 Enjoy creating coding and drawing
+- ☕ Coffee and Boba!
 
 <!--
 **tram-tr/tram-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
