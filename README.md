@@ -10,7 +10,7 @@
 ---
 ### ✨ Interests :
 - 💻 Love software development, machine learning, and full-stack development
-- 🎨 Enjoy creating coding and drawing
+- 🎨 Enjoy creative coding and drawing
 - ☕ Coffee and Boba!
 - 📽 Movie/Dramas binge-watcher!
 
