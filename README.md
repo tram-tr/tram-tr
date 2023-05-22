@@ -43,6 +43,10 @@
 - 📈 Undergraduate Research Assistant
 - 📫 How to reach me: htrinh@nd.edu
 
+
+### 💪 Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tram-tr)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **tram-tr/tram-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
