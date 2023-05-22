@@ -15,11 +15,13 @@
 - 📽 Movie/Dramas binge-watcher!
 
 ---
+### 💁 Software Engineering Intern at Yaskawa Electric Corporation (Jan 2023 - Present)
+
+---
 ### 📚 Courseworks:
-### Spring 2023
-- Operating System Principle
-- Computer Security
-- Silicon Valley Internship
+### Summer 2023
+- Modern Web Development
+- Data Science
 
 ### Past Courses
 - Scientific Computing Python
@@ -32,6 +34,8 @@
 - Probability and Statistics
 - Programming Paradigms
 - Programming Challenges
+- Operating System Principle
+- Computer Security
 
 ### 😄 Other:
 - 🌱 Notre Dame Silicon Valley Semester (Spring 2023)
