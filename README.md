@@ -22,6 +22,7 @@
 ### Summer 2023
 - Modern Web Development
 - Data Science
+- Machine Learning (Deep Learning AI, Stanford)
 
 ### Past Courses
 - Scientific Computing Python
