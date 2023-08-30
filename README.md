@@ -15,14 +15,11 @@
 - 📽 Movie/Dramas binge-watcher!
 
 ---
-### 💁 Software Engineering Intern at Yaskawa Electric Corporation (Jan 2023 - Present)
-
----
 ### 📚 Courseworks:
-### Summer 2023
-- Modern Web Development
-- Data Science
-- Machine Learning (Deep Learning AI, Stanford)
+### Fall 2023
+- Compilers and Language Design
+- Design/Analysis of Algorithms
+- Natural Language Processing
 
 ### Past Courses
 - Scientific Computing Python
@@ -37,6 +34,9 @@
 - Programming Challenges
 - Operating System Principle
 - Computer Security
+- Modern Web Development
+- Data Science
+- Machine Learning (Deep Learning AI, Stanford)
 
 ### 😄 Other:
 - 🌱 Notre Dame Silicon Valley Semester (Spring 2023)
