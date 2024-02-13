@@ -16,10 +16,10 @@
 
 ---
 ### 📚 Courseworks:
-### Fall 2023
-- Compilers and Language Design
-- Design/Analysis of Algorithms
-- Natural Language Processing
+### Spring 2024
+- Advanced Machine Learning
+- Complexity and Algorithms
+- Statistical Methods and Data Analysis
 
 ### Past Courses
 - Scientific Computing Python
@@ -37,6 +37,9 @@
 - Modern Web Development
 - Data Science
 - Machine Learning (Deep Learning AI, Stanford)
+- Compilers and Language Design
+- Design/Analysis of Algorithms
+- Natural Language Processing
 
 ### 😄 Other:
 - 🌱 Notre Dame Silicon Valley Semester (Spring 2023)
