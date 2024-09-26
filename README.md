@@ -5,23 +5,26 @@
 - 🏡 Vietnam / New Orleans, LA
 - 🙋🏻‍♀️ Pronouns: She/Her
 - 🇻🇳 Vietnamese
-- 🎓 ND'24 Computer Science
+- 🎓 Notre Dame'24 B.S. in Computer Science
+- 🎓 Notre Dame'25 M.S. in Computer Science and Engineering
 
 ---
 ### ✨ Interests :
-- 💻 Love software development, machine learning, and full-stack development
+- 💻 Machine Learning
 - 🎨 Enjoy creative coding and drawing
 - ☕ Coffee and Boba!
 - 📽 Movie/Dramas binge-watcher!
 
 ---
 ### 📚 Courseworks:
-### Spring 2024
+### Fall 2024
+- Computer Vision
+- Data Visualization
+
+### Past Courses
 - Advanced Machine Learning
 - Complexity and Algorithms
 - Statistical Methods and Data Analysis
-
-### Past Courses
 - Scientific Computing Python
 - Discrete Mathematics
 - Data Structures
