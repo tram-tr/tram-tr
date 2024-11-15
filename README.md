@@ -6,7 +6,7 @@
 - 🙋🏻‍♀️ Pronouns: She/Her
 - 🇻🇳 Vietnamese
 - 🎓 Notre Dame'24 B.S. in Computer Science
-- 🎓 Notre Dame'25 M.S. in Computer Science and Engineering
+- 🎓 Notre Dame'25 M.S. in Computer Science and Engineering (Dean's Fellowship 2024)
 
 ---
 ### ✨ Interests :
