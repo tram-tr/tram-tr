@@ -6,15 +6,14 @@
 - 🙋🏻‍♀️ Pronouns: She/Her
 - 🇻🇳 Vietnamese
 - 🎓 Notre Dame'24 B.S. in Computer Science
-- 🎓 Notre Dame'25 M.S. in Computer Science and Engineering (Dean's Fellowship 2024)
-
+  - Posse Foundation Full-Tuition Leadership Scholarship (2020 – 2024)
+  - Cum Laude Latin Honor (GPA: 3.91/4.00)
+- 🎓 Notre Dame'25 M.S. in Computer Science and Engineering
+  - Dean's Fellowship 2024
 ---
 ### ✨ Interests :
-- 💻 Machine Learning
-- 🎨 Enjoy creative coding and drawing
-- ☕ Coffee and Boba!
-- 📽 Movie/Dramas binge-watcher!
-
+- 💻 Machine Learning, Computer Vision, Data Visualization
+- 🐾 Origami!
 ---
 ### 📚 Courseworks:
 ### Fall 2024
@@ -46,8 +45,6 @@
 
 ### 😄 Other:
 - 🌱 Notre Dame Silicon Valley Semester (Spring 2023)
-- 👓 Posse Foundation Full-Tuition Leadership Scholarship (2020 – 2024)
-- 📈 Undergraduate Research Assistant
 - 📫 How to reach me: htrinh@nd.edu
 
 
