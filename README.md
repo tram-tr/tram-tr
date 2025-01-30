@@ -16,11 +16,13 @@
 - 🐾 Origami!
 ---
 ### 📚 Courseworks:
-### Fall 2024
-- Computer Vision
-- Data Visualization
+### Spring 2025
+- Neural Network
+- Optimzation in Machine Learning
 
 ### Past Courses
+- Computer Vision
+- Data Visualization
 - Advanced Machine Learning
 - Complexity and Algorithms
 - Statistical Methods and Data Analysis
